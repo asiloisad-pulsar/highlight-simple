@@ -6,6 +6,8 @@
         label: 'Highlight Simple'
         submenu: [
           { label: 'Toggle', command: 'highlight-simple:toggle' }
+          { label: 'Go to Next', command: 'highlight-simple:go-to-next' }
+          { label: 'Go to Previous', command: 'highlight-simple:go-to-previous' }
         ]
       }
     ]
