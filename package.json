@@ -1,6 +1,6 @@
 {
   "name": "highlight-simple",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Highlight all occurrences of the selected text in the editor",
   "main": "./lib/main",
   "license": "MIT",
