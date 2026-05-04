@@ -8,15 +8,31 @@
     "highlight",
     "selection"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/asiloisad/pulsar-highlight-simple"
-  },
-  "bugs": {
-    "url": "https://github.com/asiloisad/pulsar-highlight-simple/issues"
+  "repository": "https://github.com/asiloisad/pulsar-highlight-simple",
+  "configSchema": {
+    "minimumLength": {
+      "order": 1,
+      "description": "Minimum number of characters in selection before highlights are shown",
+      "type": "integer",
+      "default": 2
+    },
+    "maximumHighlights": {
+      "order": 2,
+      "description": "For performance purposes, the number of highlights is limited. Set to 0 for unlimited.",
+      "type": "integer",
+      "default": 0,
+      "minimum": 0
+    },
+    "timeout": {
+      "order": 3,
+      "title": "Debounce Timer",
+      "description": "Debounce timer in ms before searching; resets on each selection change",
+      "type": "integer",
+      "default": 20
+    }
   },
   "engines": {
-    "atom": ">=1.13.0 <2.0.0"
+    "atom": ">=1.100.0 <2.0.0"
   },
   "providedServices": {
     "highlightSimple": {
