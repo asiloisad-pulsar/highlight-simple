@@ -2,7 +2,7 @@
 
 Highlight all occurrences of the selected text in the editor.
 
-![view](https://github.com/asiloisad/pulsar-highlight-simple/blob/master/assets/view.png?raw=true)
+![view](https://github.com/asiloisad-pulsar/highlight-simple/blob/master/assets/view.png?raw=true)
 
 Fork of [highlight-selected](https://github.com/Pulsar-Edit-Highlights/selected).
 
@@ -10,7 +10,7 @@ Fork of [highlight-selected](https://github.com/Pulsar-Edit-Highlights/selected)
 
 - **Automatic highlighting**: Highlights all matching occurrences when text is selected.
 - **Customizable style**: Override highlight appearance via stylesheet.
-- **Scrollmap**: Shows highlight markers in the scrollbar via [scrollmap](https://github.com/asiloisad/pulsar-scrollmap).
+- **Scrollmap**: Shows highlight markers in the scrollbar via [scrollmap](https://github.com/asiloisad-pulsar/scrollmap).
 
 ## Installation
 
