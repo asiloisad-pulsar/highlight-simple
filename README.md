@@ -14,7 +14,7 @@ Fork of [highlight-selected](https://github.com/Pulsar-Edit-Highlights/selected)
 
 ## Installation
 
-To install `highlight-simple` search for [highlight-simple](https://web.pulsar-edit.dev/packages/highlight-simple) in the Install pane of the Pulsar settings or run `ppm install highlight-simple`. Alternatively, you can run `ppm install asiloisad/pulsar-highlight-simple` to install a package directly from the GitHub repository.
+To install `highlight-simple` search for [highlight-simple](https://web.pulsar-edit.dev/packages/highlight-simple) in the Install pane of the Pulsar settings or run `ppm install highlight-simple`. Alternatively, you can run `ppm install asiloisad-pulsar/highlight-simple` to install a package directly from the GitHub repository.
 
 ## Customization
 
