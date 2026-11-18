@@ -2,6 +2,9 @@
 
 Highlight all occurrences of the selected text in the editor.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [highlight-selected](https://github.com/lumine-code/highlight-selected).
+
 ![view](https://github.com/asiloisad-pulsar/highlight-simple/blob/master/assets/view.png?raw=true)
 
 Fork of [highlight-selected](https://github.com/Pulsar-Edit-Highlights/selected).
